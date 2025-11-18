@@ -1,0 +1,8 @@
+uva,
+manzana,
+pera,
+sandia,
+melon,
+kiwi,
+platano,
+fresa

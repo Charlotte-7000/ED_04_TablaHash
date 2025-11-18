@@ -1,0 +1,5 @@
+Índice 0: uva,
+Índice 3: platano,
+Índice 4: fresa
+Índice 5: kiwi,
+Índice 9: melon,
